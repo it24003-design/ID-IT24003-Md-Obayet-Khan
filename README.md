@@ -1,9 +1,13 @@
 Date : 19/04/26
+
 Day : #1
+
 Topic : Class and Objects
+
 Video Link : https://youtu.be/lWFzm8qIR1c?si=_F1GwcIaQuZ92GwW
 
 Example #1 (About Class)
+
 public class BasicJava {           
     public static void main(String[] args) {     
         
