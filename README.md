@@ -18,3 +18,14 @@ Video Link : https://youtu.be/lWFzm8qIR1c?si=_F1GwcIaQuZ92GwW
 Video Link : https://youtu.be/HZUUYnIZO_0?si=nRTEBzhfsSEj_8VS
 
 # Example Link : https://github.com/it24003-design/ID-IT24003-Md-Obayet-Khan/tree/main/Day%20%232%20
+
+
+### Date : 21/04/26
+
+## Day : #3
+
+# Topic : Uses of Constructor
+
+Video Link : https://youtu.be/acfR5vRTZvc?si=Wsc43Kl9cb7oUdhT
+
+# Example Link :  https://github.com/it24003-design/ID-IT24003-Md-Obayet-Khan/tree/main/Day%20%233
