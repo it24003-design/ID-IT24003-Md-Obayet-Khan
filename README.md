@@ -59,3 +59,35 @@ Video Link : https://youtu.be/bLke13zY4rg?si=fRWdfUoyA0rxK0K9
 Video Link : https://youtu.be/1SXyi3DK-88?si=bG96ucLYObG0Yles
 
 ## Example Link :  https://github.com/it24003-design/ID-IT24003-Md-Obayet-Khan/tree/main/Day%20%236
+
+### Date : 25/04/26
+
+## Day : #7
+
+# Topic : InnerClass in Java
+
+Video Link : 
+
+## Example Link : https://github.com/it24003-design/ID-IT24003-Md-Obayet-Khan/tree/main/Day%20%237
+
+
+### Date : 26/04/26
+
+## Day : #8
+
+# Topic : InnerClass in Java
+
+Video Link : 
+
+## Example Link : 
+
+
+### Date : 27/04/26
+
+## Day : #9
+
+# Topic : InnerClass in Java
+
+Video Link : 
+
+## Example Link : 
