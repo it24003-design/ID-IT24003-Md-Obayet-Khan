@@ -66,7 +66,7 @@ Video Link : https://youtu.be/1SXyi3DK-88?si=bG96ucLYObG0Yles
 
 # Topic : InnerClass in Java
 
-Video Link : 
+Video Link : https://youtu.be/lsJ9QjJPbx8?si=_8L9qiDSjLE37Dgf
 
 ## Example Link : https://github.com/it24003-design/ID-IT24003-Md-Obayet-Khan/tree/main/Day%20%237
 
