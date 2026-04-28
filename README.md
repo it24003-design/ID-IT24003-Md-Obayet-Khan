@@ -75,19 +75,29 @@ Video Link : https://youtu.be/lsJ9QjJPbx8?si=_8L9qiDSjLE37Dgf
 
 ## Day : #8
 
-# Topic : InnerClass in Java
+# Topic : Java Collection Framework in Java
 
-Video Link : 
+Video Link : https://youtu.be/TDHaeHAlPFg?si=DYWRlwi4VkD7gF38
 
-## Example Link : 
+## Example Link : https://github.com/it24003-design/ID-IT24003-Md-Obayet-Khan/tree/main/Day%20%238
 
 
 ### Date : 27/04/26
 
 ## Day : #9
 
-# Topic : InnerClass in Java
+# Topic : Arraylist & Linkedlist in Java
 
-Video Link : 
+Video Link : https://youtu.be/q-5D9Z9BCVI?si=QYEUv3wIqDuIZSV_
 
-## Example Link : 
+## Example Link : https://github.com/it24003-design/ID-IT24003-Md-Obayet-Khan/tree/main/Day%20%239
+
+### Date : 28/04/26
+
+## Day : #10
+
+# Topic : Hashset & Treeset in Java
+
+Video Link : https://youtu.be/XDw-BkAZYmY?si=VVveBTl6V9Vb0_G3
+
+## Example Link : https://github.com/it24003-design/ID-IT24003-Md-Obayet-Khan/tree/main/Day%20%2310
