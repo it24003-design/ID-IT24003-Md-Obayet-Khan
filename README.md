@@ -2,7 +2,7 @@
 
 ## Day : #1
 
-# Topic : Class and Objects
+## Topic : Class and Objects
 
 Video Link : https://youtu.be/lWFzm8qIR1c?si=_F1GwcIaQuZ92GwW
 
@@ -13,7 +13,7 @@ Video Link : https://youtu.be/lWFzm8qIR1c?si=_F1GwcIaQuZ92GwW
 
 ## Day : #2
 
-# Topic : Uses of Encapsulation
+## Topic : Uses of Encapsulation
 
 Video Link : https://youtu.be/HZUUYnIZO_0?si=nRTEBzhfsSEj_8VS
 
@@ -24,7 +24,7 @@ Video Link : https://youtu.be/HZUUYnIZO_0?si=nRTEBzhfsSEj_8VS
 
 ## Day : #3
 
-# Topic : Uses of Constructor
+## Topic : Uses of Constructor
 
 Video Link : https://youtu.be/acfR5vRTZvc?si=Wsc43Kl9cb7oUdhT
 
@@ -34,7 +34,7 @@ Video Link : https://youtu.be/acfR5vRTZvc?si=Wsc43Kl9cb7oUdhT
 
 ## Day : #4
 
-# Topic : Inheritance in Java
+## Topic : Inheritance in Java
 
 Video Link : https://youtu.be/j_VA2Rp6jM0?si=QKjWjf2ZvYZC3Dw3
 
@@ -44,7 +44,7 @@ Video Link : https://youtu.be/j_VA2Rp6jM0?si=QKjWjf2ZvYZC3Dw3
 
 ## Day : #5
 
-# Topic : Polymorphisms in Java
+## Topic : Polymorphisms in Java
 
 Video Link : https://youtu.be/bLke13zY4rg?si=fRWdfUoyA0rxK0K9
 
@@ -54,7 +54,7 @@ Video Link : https://youtu.be/bLke13zY4rg?si=fRWdfUoyA0rxK0K9
 
 ## Day : #6
 
-# Topic : Abstruction in Java
+## Topic : Abstruction in Java
 
 Video Link : https://youtu.be/1SXyi3DK-88?si=bG96ucLYObG0Yles
 
@@ -64,7 +64,7 @@ Video Link : https://youtu.be/1SXyi3DK-88?si=bG96ucLYObG0Yles
 
 ## Day : #7
 
-# Topic : InnerClass in Java
+## Topic : InnerClass in Java
 
 Video Link : https://youtu.be/lsJ9QjJPbx8?si=_8L9qiDSjLE37Dgf
 
@@ -75,7 +75,7 @@ Video Link : https://youtu.be/lsJ9QjJPbx8?si=_8L9qiDSjLE37Dgf
 
 ## Day : #8
 
-# Topic : Java Collection Framework in Java
+## Topic : Java Collection Framework in Java
 
 Video Link : https://youtu.be/TDHaeHAlPFg?si=DYWRlwi4VkD7gF38
 
@@ -86,7 +86,7 @@ Video Link : https://youtu.be/TDHaeHAlPFg?si=DYWRlwi4VkD7gF38
 
 ## Day : #9
 
-# Topic : Arraylist & Linkedlist in Java
+## Topic : Arraylist & Linkedlist in Java
 
 Video Link : https://youtu.be/q-5D9Z9BCVI?si=QYEUv3wIqDuIZSV_
 
@@ -96,7 +96,7 @@ Video Link : https://youtu.be/q-5D9Z9BCVI?si=QYEUv3wIqDuIZSV_
 
 ## Day : #10
 
-# Topic : Hashset & Treeset in Java
+## Topic : Hashset & Treeset in Java
 
 Video Link : https://youtu.be/XDw-BkAZYmY?si=VVveBTl6V9Vb0_G3
 
