@@ -1,20 +1,27 @@
-import java.util.*;
-public class HarshedNumber {
+import java.util.Scanner;
+
+public class NivenNumber {
+    static int digitSum(int n) {
+        int sum = 0;
+        while (n > 0) {
+            sum += n % 10;
+            n /= 10;
+        }
+        return sum;
+    }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
+        System.out.print("Enter a number: ");
         int n = sc.nextInt();
-        int x = 0;
-        int n1 = n;
 
-        while (n != 0) {
-            x = x + n % 10;
-            n = n / 10;
+        int sum = digitSum(n);
+
+        if (n % sum == 0) {
+            System.out.println("Harshad Number");
+        } else {
+            System.out.println("Not a Harshad Number");
         }
-
-        if (n1 % x == 0)
-            System.out.println(x);
-        else
-            System.out.println(-1);
     }
 }
