@@ -146,11 +146,11 @@ Video Link :
 
 ## Day : #15
 
-## Topic : 
+## Topic : Using byte streams in java
 
-Video Link : https://youtu.be/gtmBSl10DvY
+Video Link : https://youtu.be/NIxcCzJOj3c?si=2Zc0p_VBCPI71Yal 
 
-## Example Link : 
+## Example Link : https://github.com/it24003-design/ID-IT24003-Md-Obayet-Khan/blob/main/Day%20%2315/Example.java
 
 ### Date : 05/05/26
 
