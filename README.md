@@ -166,19 +166,19 @@ Video Link : https://youtu.be/gtmBSl10DvY
 
 ## Day : #17
 
-## Topic : 
+## Topic : Managing with directories
 
-Video Link : 
+Video Link : https://youtu.be/svLv3q-_Fl0?si=zbSQo22i68off07J
 
-## Example Link : 
+## Example Link : https://github.com/it24003-design/ID-IT24003-Md-Obayet-Khan/tree/main/Day%20%2317
 
 ### Date : 07/05/26
 
 ## Day : #18
 
-## Topic : 
+## Topic : Introduction to java time and date classes
 
-Video Link : 
+Video Link : https://youtu.be/rs1WKrln-9U?si=KbBRLPK-5ZFg1rHX
 
 ## Example Link : 
 
@@ -186,8 +186,8 @@ Video Link :
 
 ## Day : #19
 
-## Topic : Using Collection in Real World Senerio
+## Topic : Formating Dates in java
 
-Video Link : https://youtu.be/gtmBSl10DvY
+Video Link : https://youtu.be/ieveCaLfrlE?si=RW2BIlnd6Sv9_mWH
 
 ## Example Link : 
