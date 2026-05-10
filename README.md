@@ -136,11 +136,11 @@ Video Link : https://youtu.be/gtmBSl10DvY
 
 ## Day : #14
 
-## Topic :
+## Topic : Introduction to File Handling
 
 Video Link : 
 
-## Example Link : 
+## Example Link : https://github.com/it24003-design/ID-IT24003-Md-Obayet-Khan/tree/main/Day%20%2314
 
 ### Date : 04/05/26
 
