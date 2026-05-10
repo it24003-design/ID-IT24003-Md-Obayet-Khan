@@ -160,7 +160,7 @@ Video Link : https://youtu.be/gtmBSl10DvY
 
 Video Link : https://youtu.be/gtmBSl10DvY
 
-## Example Link : 
+## Example Link : https://github.com/it24003-design/ID-IT24003-Md-Obayet-Khan/tree/main/Day%20%2316
 
 ### Date : 06/05/26
 
