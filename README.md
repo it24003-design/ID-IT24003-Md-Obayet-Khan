@@ -182,7 +182,7 @@ Video Link : https://youtu.be/rs1WKrln-9U?si=KbBRLPK-5ZFg1rHX
 
 ## Example Link : https://github.com/it24003-design/ID-IT24003-Md-Obayet-Khan/tree/main/Day%20%2318
 
-### Date : 02/05/26
+### Date : 08/05/26
 
 ## Day : #19
 
@@ -191,3 +191,23 @@ Video Link : https://youtu.be/rs1WKrln-9U?si=KbBRLPK-5ZFg1rHX
 Video Link : https://youtu.be/ieveCaLfrlE?si=RW2BIlnd6Sv9_mWH
 
 ## Example Link : https://github.com/it24003-design/ID-IT24003-Md-Obayet-Khan/tree/main/Day%20%2319
+
+### Date : 09/05/26
+
+## Day : #20
+
+## Topic : Using time zone in java
+
+Video Link : https://youtu.be/apUcrW2Tmd8?si=h8saGBysXwOU2jj0
+
+## Example Link : https://github.com/it24003-design/ID-IT24003-Md-Obayet-Khan/tree/main/Day%20%2320
+
+### Date : 10/05/26
+
+## Day : #21
+
+## Topic : Parsing data from string
+
+Video Link : https://youtu.be/wNNcI8ktP34?si=w4HwzMMMdc2T1WNU
+
+## Example Link : https://github.com/it24003-design/ID-IT24003-Md-Obayet-Khan/tree/main/Day%20%2321
